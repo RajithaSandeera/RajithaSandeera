@@ -1,4 +1,4 @@
-![MasterHead]
+# 🤯 HEAD
 <h1 align="center">Hi 👋, I'm RajithaRathnayaka</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 <h4 align="center">Tel:0711292927</h4>
