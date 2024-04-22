@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajitha75258773" target="blank"><img src="https://img.shields.io/twitter/follow/rajitha75258773?logo=twitter&style=for-the-badge" alt="rajitha75258773" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot** & **React Js**
+- 🌱 I’m currently learning **Nextjs** & **Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-3yfn.vercel.app/](https://portfolio-3yfn.vercel.app/)
 
